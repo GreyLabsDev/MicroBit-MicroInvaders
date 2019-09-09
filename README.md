@@ -12,7 +12,7 @@ Project in progress now, but you can finish it by yourself =)
 
 ### Inside this repository
 * **.js file**   - sourse code
-* **.hex file**  - compiled program file, jusl load it to your micro:bit and enjoy =)
+* **.hex file**  - compiled program file, just load it to your micro:bit and enjoy =)
 
 ### Useful links
 - Micro:bit main page - https://microbit.org
